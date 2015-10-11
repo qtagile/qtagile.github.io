@@ -37,7 +37,7 @@ navbar-links:
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: QT Agile
-  email: "qtagile@qtagile.com"
+  email: "info@qtagile.com"
   #facebook: yourname  # eg. daattali
   github: qtagile    # eg. daattali
   twitter: qtagile   # eg. daattali
