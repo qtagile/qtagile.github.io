@@ -23,13 +23,12 @@ description: A blog by developers for developers
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "/img/qtagile-logo.png"
 
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  About Me: "aboutme"
-  Contact: "contact"
+  About Us: "aboutus"
 
 # --- Footer options --- #
 
@@ -41,7 +40,7 @@ author:
   #facebook: yourname  # eg. daattali
   github: qtagile    # eg. daattali
   twitter: qtagile   # eg. daattali
-  #linkedin: yourlink  # eg. "pub/dean-attali/8/946/143"
+  linkedin: company/qt-agile  # eg. "pub/dean-attali/8/946/143"
   #stackoverflow: yourlink  # eg. "users/3943160/daattali"
 
 # Select which links to show in the footer
@@ -51,12 +50,12 @@ footer-links-active:
   email: true
   twitter: true
   github: true
-  linkedin: false
+  linkedin: true
   stackoverflow: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "qtagile.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
