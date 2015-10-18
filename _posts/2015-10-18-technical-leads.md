@@ -2,6 +2,7 @@
 layout: post
 title: 7 Reasons you're not ready to be a Tech Lead
 subtitle: and what you can do about it
+#author: 
 ---
 
 ### 1. You spend more time learning new technologies rather than

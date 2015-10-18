@@ -24,7 +24,7 @@ subtitle: By Developers For Developers
     </a>
 
     <p class="post-meta">
-      Posted on {{ post.date | date: "%B %-d, %Y" }}
+      Posted on {{ post.date | date: "%B %-d, %Y" }} {% if post.author %} by {{ post.author }} {% endif %}
     </p>
 
     <div class="post-entry">
