@@ -2,7 +2,7 @@
 layout: post
 title: 7 Reasons you're not ready to be a Tech Lead
 subtitle: and what you can do about it
-#author:
+author: Q
 ---
 
 Whilst mentoring developers inside and out of my immediate teams, I've noticed trends in frustration were some become intent on becoming a Technical Lead before they have developed the skills to fill the role adequately. I've not only see this with senior developers but also much more junior developers where they clearly do not have the skill or experience to be a technical lead a development team.
