@@ -2,11 +2,21 @@
 layout: post
 title: 7 Reasons you're not ready to be a Tech Lead
 subtitle: and what you can do about it
-#author: 
+#author:
 ---
 
-### 1. You spend more time learning new technologies rather than
-Do you keep finding new technologies to create the next greatest thing?
+Whilst mentoring developers inside and out of my immediate teams, I've noticed trends in frustration were some become intent on becoming a Technical Lead before they have developed the skills to fill the role adequately. I've not only see this with senior developers but also much more junior developers where they clearly do not have the skill or experience to be a technical lead a development team.
+
+Here are some of the reasons I've personally experienced and a few tips to make progress forward. This won't be exhaustive so I'd love to hear your thoughts over in the comments or social media.
+
+### 1. High technical ability, not enough business experience
+
+
+
+### Spending more time learning new technologies than actually producing with well established ones
+Symptom: It's a great feeling to be working on new technologies and pushing yourself and it to the limit. New technologies can absolutely become the next big thing so it a good idea to continue experimenting with them and getting an understanding of how they will fit in to your systems.
+
+Cure: These experimentations should initially be confined to investigative spikes if the technologies seem immediately relevant to an existing problem or to innovation/pet projects if there's no current need for such a tool.
 
 ### 2. You keep knowledge to yourself
 
