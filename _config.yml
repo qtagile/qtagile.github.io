@@ -27,8 +27,10 @@ avatar: "/img/qtagile-logo.png"
 
 # List of links in the navigation bar
 navbar-links:
-  Home: ""
-  About Us: "aboutus"
+  Home: "/"
+  Main Site: "http://qtagile.com"
+  Code: "https://github.com/qtagile"
+  About Us: "/aboutus"
 
 # --- Footer options --- #
 
